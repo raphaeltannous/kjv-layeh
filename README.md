@@ -1,5 +1,5 @@
 > __Disclaimer:__ I am not familiar with the C programming language. I am not actually maintaining this fork, and I can't fix __BIG BUGS__. You are free to fork, or contact me to continue this project if you are familiar with C. Thank You!
-> 
+>
 > Jesus Christ is Lord!
 
 # kjv
@@ -50,7 +50,7 @@ Read the Word of God from your terminal
 
 kjv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/rofe33/kjv-layeh.git kjv
+    git clone https://github.com/raphaeltannous/kjv-layeh.git kjv
     cd kjv
     make
 
